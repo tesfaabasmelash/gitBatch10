@@ -6,7 +6,7 @@ import org.openqa.selenium.support.PageFactory;
 import utils.CommonMethods;
 
 public class DashBoardPage extends CommonMethods {
-
+    // Selenium codes
     @FindBy(id="welcome")
     public WebElement welcomeMessage;
 
